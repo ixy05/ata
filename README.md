@@ -1,6 +1,8 @@
 # ATA
 integrating ata with homekit doorbell via homepods
 
+### thankyou ATA for so kindly sending the receiver, without it, none of this would have been possible.
+
 
 # requirements
 - homebridge server (http://homebridge.io)
@@ -128,7 +130,7 @@ requires a home hub (at least one of these)
 - ipad
 - homepod
 - apple tv
--
+
 after adding the regex contact sensor to homekit follow these steps <b>in the iOS home app.</b>
 
    1. press the plus
@@ -146,4 +148,6 @@ after adding the regex contact sensor to homekit follow these steps <b>in the iO
   *****
   
 You are now done!
-  
+
+see the images here:
+            https://github.com/ixy055/ata/blob/main/images.md
